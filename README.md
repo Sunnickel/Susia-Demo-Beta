@@ -18,6 +18,8 @@ I want my games to support MacOS, but as I don't own an apple device myself, I r
 **Second thing to note**, as I don't have an apple device or an apple developer account, your apple device **will most likely warn you about not being able to verify that the game is free of malware**. 
 This is normal because I cannot sign or notarize the game without an apple device. I'll link a VirusTotal scan to the download page, but if you still don't feel comfortable downloading it, that's completely understandable :]
 
+**If you do want to go ahead and test out the demo anyway**, please follow the steps written here to open the game: https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unknown-developer-mh40616/mac
+
 ## Where can I report any bugs I encounter?
 
 You can report bugs on the Koiran Dev Discord server (https://discord.gg/SseKRGxV2d) at demo-bug-report channel, or in the Google Forms found in the game itself! Whichever feels more convenient for you, though on the server I am able to answer to the bug reports unlike Google Forms!
