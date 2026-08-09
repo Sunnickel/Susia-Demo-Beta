@@ -1,6 +1,6 @@
 # Susia Demo Beta Testing!
 
-In this channel you'll find everything to do with the Susia demo beta test!
+In this repository you'll find everything to do with the Susia demo beta test!
 
 ## Why beta test a demo??
 
