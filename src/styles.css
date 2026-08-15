@@ -1,19 +1,15 @@
-/* 1. Imports always come first */
 @import 'tailwindcss';
 
-/* 2. Custom font declarations */
 @font-face {
   font-family: 'Gilroy';
-  src: url('fonts/Gilroy-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
+  src: url('./assets/fonts/Gilroy-Regular.ttf') format('truetype');
+  font-weight: normal;
 }
 
 @font-face {
   font-family: 'Gilroy';
-  src: url('fonts/Gilroy-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
+  src: url('./assets/fonts/Gilroy-Bold.ttf') format('truetype');
+  font-weight: bold;
 }
 
 @theme {
