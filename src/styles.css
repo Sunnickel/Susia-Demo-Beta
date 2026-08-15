@@ -1,0 +1,45 @@
+/* 1. Imports always come first */
+@import 'tailwindcss';
+
+/* 2. Custom font declarations */
+@font-face {
+  font-family: 'Gilroy';
+  src: url('/fonts/Gilroy-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url('/fonts/Gilroy-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@theme {
+  --font-sans: 'Gilroy', ui-sans-serif, system-ui, sans-serif;
+
+  --color-primary-50: oklch(97.58% 0.007 186.2);
+  --color-primary-100: oklch(92.42% 0.021 188.1);
+  --color-primary-200: oklch(85.49% 0.038 188.9);
+  --color-primary-300: oklch(76.21% 0.052 189.6);
+  --color-primary-400: oklch(66.25% 0.061 190.2);
+  --color-primary-500: oklch(57.06% 0.061 191.1);
+  --color-primary-600: oklch(47.46% 0.054 191.8);
+  --color-primary-700: oklch(40.48% 0.044 192.3);
+  --color-primary-800: oklch(34.82% 0.035 192.6);
+  --color-primary-900: oklch(31.29% 0.028 192.8);
+  --color-primary-950: oklch(19.82% 0.021 193.1);
+
+  --color-secondary-50: oklch(97.26% 0.012 118.2);
+  --color-secondary-100: oklch(92.83% 0.026 118.8);
+  --color-secondary-200: oklch(86.63% 0.046 119.5);
+  --color-secondary-300: oklch(78.52% 0.071 120.3);
+  --color-secondary-400: oklch(71.43% 0.090 120.8);
+  --color-secondary-500: oklch(60.15% 0.090 121.5);
+  --color-secondary-600: oklch(55.84% 0.088 121.7);
+  --color-secondary-700: oklch(46.22% 0.068 122.1);
+  --color-secondary-800: oklch(40.59% 0.054 122.3);
+  --color-secondary-900: oklch(36.32% 0.045 122.6);
+  --color-secondary-950: oklch(22.64% 0.031 122.9);
+}
