@@ -23,3 +23,7 @@ This is normal because I cannot sign or notarize the game without an apple devic
 ## Where can I report any bugs I encounter?
 
 You can report bugs on the Koiran Dev Discord server (https://discord.gg/SseKRGxV2d) at demo-bug-report channel, or in the Google Forms found in the game itself! Whichever feels more convenient for you, though on the server I am able to answer to the bug reports unlike Google Forms!
+
+## Don't come after me for Angular
+Please dont go after the website dev for using angular for such a small website.
+He knows it's too big for such a small site, but uh funni.
